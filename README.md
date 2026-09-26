@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sumit-HealthGenAI/Sumit-HealthGenAI/main/dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sumit-HealthGenAI/Sumit-HealthGenAI/main/light.svg">
+  <img alt="Sumit Kharat" src="https://raw.githubusercontent.com/Sumit-HealthGenAI/Sumit-HealthGenAI/main/light.svg">
+</picture>
+
 # 💫 About Me:
 👋 Hi, I’m **Sumit Kharat**, a 💊 B.Pharm student passionate about the intersection of **Healthcare 🏥 and Artificial Intelligence 🤖**. I’m building toward a career in **Healthcare GenAI Engineering**, with a focus on **Generative AI, LLMs, MLOps, and LLMOps**. 🚀 I enjoy building practical AI projects, exploring real-world healthcare applications, and contributing to **open source 🌱** while continuously strengthening my engineering skills.<br>
 
