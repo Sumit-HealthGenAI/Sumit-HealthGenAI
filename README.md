@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sumit-HealthGenAI/Sumit-HealthGenAI/main/dark.svg">
+    srcset="https://raw.githubusercontent.com/Sumit-HealthGenAI/Sumit-HealthGenAI/main/dark-1.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sumit-HealthGenAI/Sumit-HealthGenAI/main/light.svg">
-  <img alt="Sumit Kharat" src="https://raw.githubusercontent.com/Sumit-HealthGenAI/Sumit-HealthGenAI/main/light.svg">
+    srcset="https://raw.githubusercontent.com/Sumit-HealthGenAI/Sumit-HealthGenAI/main/light-1.svg">
+  <img alt="Sumit Kharat" src="https://raw.githubusercontent.com/Sumit-HealthGenAI/Sumit-HealthGenAI/main/light-1.svg">
 </picture>
 
 # 💫 About Me:
