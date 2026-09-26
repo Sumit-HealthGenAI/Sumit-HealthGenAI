@@ -7,8 +7,7 @@
 </picture>
 
 # 💫 About Me:
-👋 Hi, I’m **Sumit Kharat**, a 💊 B.Pharm student passionate about the intersection of **Healthcare 🏥 and Artificial Intelligence 🤖**. I’m building toward a career in **Healthcare GenAI Engineering**, with a focus on **Generative AI, LLMs, MLOps, and LLMOps**. 🚀 I enjoy building practical AI projects, exploring real-world healthcare applications, and contributing to **open source 🌱** while continuously strengthening my engineering skills.<br>
-
+👋 Hi, I’m **Sumit Kharat**, a 💊 B.Pharm student passionate about the intersection of **Healthcare 🏥 and Artificial Intelligence 🤖**. I’m building toward a career as a **Healthcare Applied AI Engineer**, with a focus on **Machine Learning, Generative AI, LLMs, AI Agents, MLOps, LLMOps, and AgentOps**. 🚀 I enjoy building practical, production-oriented AI systems for real-world healthcare problems, exploring emerging AI technologies, and contributing to **open source 🌱** while continuously strengthening my software engineering and AI engineering skills.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shadow____2006) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumit______2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sumit Kharat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kharatsumit10@gmail.com) 
